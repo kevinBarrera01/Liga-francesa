@@ -1,0 +1,23 @@
+nombre=Ligue 1
+p_ganado=3
+p_empatado=1
+p_perdido=0
+
+equipo=PSG
+equipo=Marseille
+equipo=Monaco
+equipo=Lille
+equipo=Lyon
+equipo=Nice
+equipo=Lens
+equipo=Rennes
+equipo=Reims
+equipo=Montpellier
+equipo=Toulouse
+equipo=Strasbourg
+equipo=Nantes
+equipo=Brest
+equipo=Clermont
+equipo=Lorient
+equipo=Metz
+equipo=Le Havre
